@@ -1,5 +1,3 @@
-# testrepo
+# SpaceX Rocket Launch Analysis
 
-## Editing the file
-
-It's a markdown file in this repository.
+## Prediction of the outcome of the landing for future rocket launches using ML
