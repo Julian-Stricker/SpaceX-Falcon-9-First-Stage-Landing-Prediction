@@ -11,7 +11,12 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 
 #### Changelog
-...
+
+| Date          | Activity      | 
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      | 
+| zebra stripes | are neat      | 
 
 #### Author
 Julian Stricker
