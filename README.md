@@ -14,9 +14,10 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 | Date          | Activity      | 
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      | 
-| zebra stripes | are neat      | 
+| 25/04/2022    | Upload first JupyterLab notebooks |
+| 28/04/2022    | Set up & Clean Github Repo      | 
+| 04/05/2022    | Add remaining notebooks      | 
+| 07/05/2022    | Add final presentation   | 
 
 #### Author
 Julian Stricker
