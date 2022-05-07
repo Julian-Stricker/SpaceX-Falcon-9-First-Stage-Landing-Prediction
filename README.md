@@ -1,7 +1,6 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
-## Prediction of the outcome of the first stage landing for future rocket launches using Machine Learning
+## Prediction of the outcome of the first stage landing using Machine Learning
 ![image](https://user-images.githubusercontent.com/104361797/167247274-89e6ca09-da64-44a4-8c7b-12fe3f0075ab.png)
-
 
 
 
